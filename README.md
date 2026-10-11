@@ -3,7 +3,7 @@
 A full-stack web application designed to analyze historical meteorological data and detect multi-decade trends in regional climate hazards (heatwaves).
 
 ---
-- **Live Application:** - **Live Application:** https://your-app.vercel.app
+- **Live Application:** - **Live Application:** https://climate-hazard-trend-analyzer-blue.vercel.app
 - **API Docs:**  https://climate-hazard-trend-analyzer-ljd6.onrender.com
 
 
